@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://writing.daniel-dewar.com"
 languageCode = "en-us"
 title = "Daniel Dewar Writing"
+theme = "after-dark"
 
 [Params]
   Author = "Daniel Dewar"
