@@ -11,7 +11,7 @@ I was unable to get out of bed. For an extended time there was not enough energy
 
 The night before I suffered through two terrible dreams.
 
-The first was quite long but repetitive. I was meeting many people for the first time, and each time, they picked at me for now sharing more about myself. They were bored and frustrated that I refused to share details of my inner life and thoughts with them. They hated that I was private and introverted. I soon became surrounded by people, all verbally assaulting me, telling me my lowly worth.
+The first was quite long but repetitive. I was meeting many people for the first time, and each time, they picked at me for not sharing more about myself. They were bored and frustrated that I refused to share details of my inner life and thoughts with them. They hated that I was private and introverted. I soon became surrounded by people, all verbally assaulting me, telling me my lowly worth.
 
 The next dream was shorter. I was due to interview Colin Farrell via a phone call (Maggie Smith was also on the line for some reason). It became one of those instances where everything possible went wrong. My phone had no reception. It took a long time for a computer to connect to WiFi. GoToMeeting took a long time to load and ultimately failed to connect. I coordinated with Farrell via email to move the call to Skype.
 
@@ -37,4 +37,4 @@ What I did do was share this experience with others—something I may not have p
 
 I may not have been unable to resolve the fear, but I now feel better about revealing my interiority to others.
 
-It's only the first step. Maybe that's the lesson. 
+It's only the first step. Maybe that's the lesson.
