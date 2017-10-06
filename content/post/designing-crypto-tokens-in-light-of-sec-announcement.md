@@ -32,7 +32,7 @@ In their ruling, the Supreme Court concluded:
 And:
 
 > “It is immaterial whether the enterprise is speculative or nonspeculative, or whether there is a sale of property with or without intrinsic value. What matters is whether the scheme involves an investment of money in a common enterprise with profits to come solely from the efforts of others.”
- 
+
 Dapps have the potential to act like investment contracts—and there’s certainly no shortage of speculators who go into ICOs with profits as the sole motivation.
 
 Coinbase published a [whitepaper](https://www.coinbase.com/legal/securities-law-framework.pdf) posing how tokens can—and must—be designed with the Howey Test in mind and they offer an open-source framework for this.
