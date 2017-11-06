@@ -38,7 +38,7 @@ An additional component to reconcile is that we are simply inducing these bodies
 
 I suppose the response to that is we would be giving these bodies a seat at a table that had not been available previously, and ultimately putting them into decision-making positions for the company and into the wider industry.
 
-The NFL implements the [Rooney Rule](https://qz.com/959608/the-legacy-of-the-man-behind-footballs-rooney-rule-requiring-interviewing-minority-candidates-lives-on-in-silicon-valley/), which requires that a minority candidate must be interviewed for a position that is hiring. There are no quotas attached, but it was an attempt to address an imbalance where 70% of the workforce was African-American, yet that same demographic only made up 6% of the coaching and senior administrative staff. (Of course, the inherit racism in which the NFL and college football operates is another matter.)
+The NFL implements the [Rooney Rule](https://qz.com/959608/the-legacy-of-the-man-behind-footballs-rooney-rule-requiring-interviewing-minority-candidates-lives-on-in-silicon-valley/), which requires that a minority candidate must be interviewed for a position that is hiring. There are no quotas attached, but it was an attempt to address an imbalance where 70% of the workforce was African-American, yet that same demographic only made up 6% of the coaching and senior administrative staff. (Of course, the inherent racism in which the NFL and college football operates is another matter.)
 
 After our raise and we are in a position to hire, there will come a time for us to codify our hiring goals and processes.
 
