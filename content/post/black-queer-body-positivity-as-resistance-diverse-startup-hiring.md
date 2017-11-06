@@ -11,9 +11,9 @@ The program is run by the inspiring [Suchitra Vijayan](https://twitter.com/suchi
 
 The speaker on this night was [Stephen Thrasher](https://twitter.com/thrasherxy), a Senior Columnist at The Guardian and research in American Studies at NYU. An embed of the recorded lecture is at the bottom of this page.
 
-Thrasher spoke about his experience of becoming comfortable his body—a black, overweight, gay body–by salsa dancing naked at Burning Man. Thrasher is a wonderfully warm storyteller and gave a moving account of finding power in the simple act of body acceptance at time when there is a war on for your mind and your body.
+Thrasher spoke about his experience of becoming comfortable his body—a black, overweight, gay body–by salsa dancing naked at Burning Man. Thrasher is a wonderfully warm storyteller and gave a moving account of finding power in the simple act of body acceptance at a time when there is a war on for your mind and your body.
 
-The wider themes of his talk spoke to how bodies get shamed and policed, particularly for women, People of color, gay, trans and queer people.
+The wider themes of his talk spoke to how bodies get shamed and policed, particularly for women, People of Color, gay, trans and queer people.
 
 As a white cis-heterosexual, all I can do is listen and be educated on these experiences, particularly as I am on the journey of building a company. It is something I am very conscious about.
 
@@ -30,13 +30,13 @@ Diversity is something my co-founder Rahul, who is Indian-American, and I have s
 
 For Rahul and I, it is as much about growing a smarter company as it is in ensuring our own company is in a position to directly attack historical power structures in these industries.
 
-One of the first things I thought about after the lecture was why there was such a high ratio and white males reaching out compared to other demographics, and what we can do to present the company (language, imagery, action) that is less threatening to people of color, women and LGBTQIA  communities.
+One of the first things I thought about after the lecture was wondering why there was such a high ratio of white males reaching out compared to other demographics, and what we can do to present the company (language, imagery, action) that is less threatening to people of color, women and LGBTQIA communities.
 
 And there is another proactive element to this—we need to be more diligent in seeking out minority spaces and approach those communities.
 
-An additional component to reconcile is that we are simply inducing these bodies into a capitalist system that has purposefully disenfranchized and discriminated against these communities. These bodies become labor of the system that has exploited them.
+An additional component to reconcile is that we are simply inducing these bodies into a capitalist system that has purposefully disenfranchized and discriminated against these communities. We are asking that these bodies become labor of the system that has exploited them.
 
-I suppose the answer to that is we would be giving these bodies a seat at a table that had not been available previously, and ultimately putting them into decision-making positions for the company and into the wider industry.
+I suppose the response to that is we would be giving these bodies a seat at a table that had not been available previously, and ultimately putting them into decision-making positions for the company and into the wider industry.
 
 The NFL implements the [Rooney Rule](https://qz.com/959608/the-legacy-of-the-man-behind-footballs-rooney-rule-requiring-interviewing-minority-candidates-lives-on-in-silicon-valley/), which requires that a minority candidate must be interviewed for a position that is hiring. There are no quotas attached, but it was an attempt to address an imbalance where 70% of the workforce was African-American, yet that same demographic only made up 6% of the coaching and senior administrative staff. (Of course, the inherit racism in which the NFL and college football operates is another matter.)
 
