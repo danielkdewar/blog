@@ -17,12 +17,12 @@ This means royalties go unpaid and are generally held in "black boxes".
 
 It's common practice for these black boxes to eventually be distributed based on publisher or label market share. Naturally independents receive the lowest proportion, if anything.
 
-In the case of the proposed Music Modernization Act, this would remove the NOI black box, not building a mechanism for the copyright owners to be accurately matched, but by doing away with the license all together. DSPs will instead operate under a blanket license for every historical and future composition and pay into a new Mechanical Licensing Collective.
+In the case of the proposed [Music Modernization Act](https://lieu.house.gov/sites/lieu.house.gov/files/Overview%20of%20the%20Music%20Modernization%20Act.pdf), this would remove the NOI black box, not building a mechanism for the copyright owners to be accurately matched, but by doing away with the license all together. DSPs will instead operate under a blanket license for every historical and future composition and pay into a new Mechanical Licensing Collective.
 
 There's something very nefarious about the current Music Modernisation Act and its default model of market share distribution.
 
 It's not just independents, but independents in genres that are traditionally represented by non-white artists that will miss out on these distributions. This is due to the sometimes complex royalty splits to access to services and information that would educate these artists on how royalties and copyright works.
 
-In its current form, the Music Modernization Act reinforces institutional racism that pervades much of US legislative structures.
+In its current form, the Music Modernization Act reinforces the [structural racism](http://www.intergroupresources.com/rc/Definitions%20of%20Racism.pdf) that pervades much of US legislature.
 
 I do not think this is a conscious decision on the part of those who have architected the legislation. It is simply an example where laziness and financial interest can become complicit in building and perpetuating institutional racism.
