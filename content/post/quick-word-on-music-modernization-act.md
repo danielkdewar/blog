@@ -7,11 +7,11 @@ title = "Institutional Racism and Royalty Distribution — A Quick Word on the M
 
 The music industry's shift from physical to digital revenue—and big data—has compounded inefficiencies in licensing, rights owner identification, and royalty distribution.
 
-A proxy example of this is the "author unknown" filings to the US Copyright Office using the Notice of Intention (NOI) compulsory license under Section 115 of the United States Copyright Act. If these filings are to be taken at face value, there are over 60 million instances where digital service providers are unable to identify the copyright owners of the works in question.
+A proxy example of this is the ["author unknown" filings to the US Copyright Office](http://blog.paperchain.io/post/2017/10/21/paperchains-rahul-rumalla-presents-at-the-rightstech-summit-nyc/) using the Notice of Intention (NOI) compulsory license under Section 115 of the United States Copyright Act. If these filings are to be taken at face value, there are over 60 million instances where digital service providers are unable to identify the copyright owners of the works in question.
 
 This is not the case for every single filing—as always it's more complicated—but there are a significant number of works whose owners cannot be identified.
 
-Performing Rights Organizations and Collective Management Organizations (effectively the same role, different dressing) also struggle to effectively match the rights owners to compositions.
+Performing Rights Organizations and Collective Management Organizations (effectively the same role, different dressing) also struggle to effectively [match rights owners to compositions](http://blog.paperchain.io/post/2017/05/02/how-music-industry-silos-are-leading-to-unpaid-royalties/).
 
 This means royalties go unpaid and are generally held in "black boxes".
 
@@ -19,7 +19,7 @@ It's common practice for these black boxes to eventually be distributed based on
 
 In the case of the proposed Music Modernization Act, this would remove the NOI black box, not building a mechanism for the copyright owners to be accurately matched, but by doing away with the license all together. DSPs will instead operate under a blanket license for every historical and future composition and pay into a new Mechanical Licensing Collective.
 
-There's something very nefarious about current Music Modernisation Act and its default model of market share distribution.
+There's something very nefarious about the current Music Modernisation Act and its default model of market share distribution.
 
 It's not just independents, but independents in genres that are traditionally represented by non-white artists that will miss out on these distributions. This is due to the sometimes complex royalty splits to access to services and information that would educate these artists on how royalties and copyright works.
 
