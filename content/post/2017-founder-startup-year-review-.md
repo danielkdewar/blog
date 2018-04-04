@@ -38,13 +38,13 @@ Earlier this year I published a list of book recommendations for founders, and I
 
 I'm struggling to revere founders like Elon Musk, Jeff Bezos, Mark Zuckerberg because to do so ignores the anti-human and anti-labor practices of their businesses. If anything, it's a reminder of the dangers in deifying people. People are fallible. Expect it. Great ideas should not be abandoned because of fallible people. Find other people to carry on the work. Poor judgement and decision-making should be called out. Real-world consequences (firings, loss of revenue) should exist.
 
-It's impossible not to see the link between deification, "genius" founder worship and what Uber is now. So it is with successful business, it is also with toxic businesses. Travis Kalanick was not alone in building Uber.
+It's impossible not to see the link between deification, "genius" founder worship and what Uber is now. So it is with successful businesses, it is also with toxic businesses. Travis Kalanick was not alone in building Uber.
 
 ### Inspiration is everywhere
 
 I've met so many wonderful people this year, other founders and people who have expressed interest in joining Paperchain. I can't wait to have the opportunity to invite people on board this adventure and see what they do with the company. It's becoming clearer what my role as founder and CEO of the company should be, and I know I want to be in a position to encourage people to being their ideas, their personality and their history to the company.
 
-I still get inspired by art. I've picked my book-reading and movie watching. *Stamped from the Beginning: The Definite History of Racist Ideas in America* (Ibram X. Kendi) is essential reading. Some of the more exceptional films from this year were "GOOD TIME", "A QUIET PASSION, "GIRLS TRIP", and "A GHOST STORY". I saw very little new cinema this year.
+I still get inspired by art. I've picked up my book-reading and movie watching. *Stamped from the Beginning: The Definite History of Racist Ideas in America* (Ibram X. Kendi) is essential reading. Some of the more exceptional films from this year were "GOOD TIME", "A QUIET PASSION, "GIRLS TRIP", and "A GHOST STORY". I saw very little new cinema this year.
 
 I was very lucky to be able to return to Australia for the holiday season. <br>
 It's been grounding and re-energizing.<br>

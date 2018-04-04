@@ -93,4 +93,4 @@ The only *business* book on this list.
 
 "Good to Great" eschews the philosophical preaching of most business titles to present the findings of a five-year research project into the commonalities between companies that went from good to great, and were able to sustain that greatness.
 
-Collins litters the book with data—quantitative and qualitative—to suggest five common traits of a great company. It's not so much a framework but a rorschach test. Recommended for any founders wanting a guide to removing the ego from the business and creating a company culture that involves the entire workforce.
+Collins litters the book with data—quantitative and qualitative—to suggest five common traits of a great company. It's not so much a framework but a Rorschach test. Recommended for any founders wanting a guide to removing the ego from the business and creating a company culture that involves the entire workforce.
