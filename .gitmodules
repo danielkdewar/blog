@@ -1,6 +1,6 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:danielkdewar/danielkdewar.github.io.git
 [submodule "themes/writing-daniel-dewar-theme"]
 	path = themes/writing-daniel-dewar-theme
 	url = git@github.com:danielkdewar/writing-daniel-dewar-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:danielkdewar/writing.github.io.git
