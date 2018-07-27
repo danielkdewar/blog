@@ -1,7 +1,7 @@
 baseURL = "http://writing.daniel-dewar.com"
 languageCode = "en-us"
 title = "Daniel Dewar Writing"
-theme = "after-dark"
+theme = "writing-daniel-dewar-theme"
 
 [Params]
   Author = "Daniel Dewar"
