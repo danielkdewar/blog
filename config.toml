@@ -1,4 +1,4 @@
-baseURL = "http://writing.daniel-dewar.com"
+baseURL = "https://writing.daniel-dewar.com"
 languageCode = "en-us"
 title = "Daniel Dewar Writing"
 theme = "writing-daniel-dewar-theme"
