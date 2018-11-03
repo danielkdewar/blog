@@ -17,7 +17,7 @@ I joined Twitter on June 09, 2012. It was a powerful tool for getting access to 
 
 My profile photo was a black & white screen grab of Walter Hotenhoffer, a character in The Simpson's episode, "The Scorpion's Tale", voiced by Werner Herzog.
 
-![walter hotenhoffer - daniel dewar profile pic](img/daniel-dewar-twitter-profile.jpg)
+![walter hotenhoffer - daniel dewar profile pic](/img/daniel-dewar-twitter-profile.jpg)
 
 The episode features the following exchange:
 
