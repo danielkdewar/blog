@@ -1,7 +1,7 @@
 +++
-date = "2018-10-29T09:48:52+10:00"
-draft = false
-title = "Depression in America & Twitter Account Deactivation"
+date = "2018-11-03T09:48:52+10:00"
+draft = true
+title = "October 2018 Media Consumption"
 
 +++
 
@@ -56,7 +56,7 @@ And that is a high-profile example.
 
 Most recently: [Twitter apologizes for 'Kill all Jews' trending topic](https://thehill.com/policy/technology/414571-twitter-apologizes-for-kill-all-jews-trending-topic)
 
-Calls to ban Nazis and provide better censoring of racist & misogynist accounts have been willfully ignored by Twitter. Jack Dorsey's leadership throughout has been one of criminal negligence.
+Calls to ban Nazi's and provide better monitoring of racist attacks have been willfuly ignored by Twitter. Jack Dorsey's leadership throughout has been one of criminal negligence.
 
 ## Following
 
