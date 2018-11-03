@@ -28,9 +28,17 @@ Hotenhoffer: (sighs and removes gun from temple) I'd like to have just one day w
 
 [This post](https://writing.daniel-dewar.com/post/a-very-easy-death/) probably best explains the appeal to me. Before Hotenhoffer I used a black & white screen grab of Ray Patterson (voiced by Steve Martin), the incumbent Sanitation Commissioner Homer runs against.
 
+## News
+
+Twitter became my main source of news. I haven't owned a television for nearly a decade, so I don't have a reporting feed such as TV news available.
+
+If ever I overheard or saw something breaking on a TV in a public space, I'd immediately go to Twitter and search for it. If I saw a street blocked off by emergency services around New York City, I would search Twitter to see if anyone was posting about it.
+
+It has the potential to be a valuable news outlet, disinformation bots aside—but that is Twitter's own fault for not managing the problem.
+
 ## Disassociation & Mental Health
 
-Over time, I started to mute most of the accounts I followed. I've thought for a long time that it was pointless to be on Twitter if I muted over 70% of the accounts on there. I started blocking and muting accounts I didn't follow.
+Over time, I started to mute most of the accounts I followed. I've thought for a long time that it was pointless to be on Twitter if I muted over 70% of the accounts on there. I then started blocking and muting accounts I didn't follow.
 
 I felt I had a feed of thoughtful people, who generally aligned with my world view. At some point it still became too much. Living in America before this current administration was anxiety-inducing enough. Now, it's unbearable.
 
