@@ -1,52 +1,85 @@
 +++
 date = "2018-10-29T09:48:52+10:00"
-draft = true
-title = "Depression in America, Social Media and Paperchain."
+draft = false
+title = "Depression in America & Twitter Account Deactivation"
 
 +++
 
-The core seed idea of [Paperchain](https://paperchain.io) came into conscious thought around May/June 2016. I wrote my first public words on it in July 2016. Rahul joined as co-founder in December 2016.
+I was first diagnosed with depression in 2015. At the time I was undergoing cognitive behavioral therapy to treat a chronic anxiety disorder (fear of catastrophe).
 
-At the time I was still working full-time. The response to Paperchain was enough to push me to leave my full-time job.
+My family has a long history of depression, some members were treated, others were not but the symptoms were recognizable. It's part of my genetic makeup that my body struggles to chemically balance itself.
 
-In January 2017 I arranged with my employer for a 6-month phase out: 3 months at 4 days a week, 3 months at 3 days a week. I didn't last the full six months. After three months I was ready to go all in.
-Premature in retrospect but it felt like the right decision then.
+It requires medication to achieve that balance as part of a wider treatment plan.
 
-I feel like we limped home at the end of 2017.
+## I was @audiodesigndan and then @danielkdewar
 
-The more we learned about our market (no small feat considering the information is obfuscated and you need to dig and put the pieces together) the more we realized the market opportunity wasn't what we thought it was. It was always going to be limited and recent legislative agendas removes it entirely.
+I joined Twitter on June 09, 2012. It was a powerful tool for getting access to the people I admired most as well as people I considered peers.
 
-While these are no doubt threats to the business, I've never seen them that way. They've been opportunities to learn more about the underlying music industry challenges and refine our approaching to solving them.
+My profile photo was a black & white screen grab of Walter Hotenhoffer, a character in The Simpson's episode, "The Scorpion's Tale", voiced by Werner Herzog.
 
-So I'm disappointed we don't have the product maturity that I'd wanted but I can see now that we are adapting to market forces well and should be encouraged by that. We're showing ourselves to be resilient and responsive.
+![walter hotenhoffer - daniel dewar profile pic](img/daniel-dewar-twitter-profile.jpg)
 
-And I can look back now and see what an incredible learning opportunity 2017 was. From March 2017 I was a "full-time" founder (I still had and still do take on freelance and contract work to supplement income, until funding is Paperchain's financial future is secured). Some insights for me:
+The episode features the following exchange:
 
-### Obama was right, you didn't build it
+**Assistant: Mr. Hotenhoffer, there's a mob outside.<br>
+Hotenhoffer: (pulls out gun from desk and places against his temple) An angry mob?<br>
+Assistant: No, a cheerful mob.<br>
+Hotenhoffer: (sighs and removes gun from temple) I'd like to have just one day when I don't put a gun to my head.**
 
-Lately I've been thinking about how utterly ridiculous the idea of the lone genius is, most recently in the great-nephew of Australia's 2nd richest person who made the proclamation that he made it on his own, [never taking a cent from his family](http://www.smh.com.au/technology/smartphone-apps/my-parents-haven-t-given-me-a-single-cent-grandson-of-australia-s-second-richest-person-out-to-prove-himself-20171217-p4yxsl.html) (he apparently doesn't consider excellent family business connections, great schooling, or a stable family any help to his success).
+[This post](https://writing.daniel-dewar.com/post/a-very-easy-death/) probably best explains the appeal to me. Before Hotenhoffer I used a black & white screen grab of Ray Patterson (voiced by Steve Martin), the incumbent Sanitation Commissioner Homer runs against.
 
-Barack Obama was ridiculed for suggesting that rather than building business on their own, a person's success was the work of their community. I'm not sure how anybody who has started a business could think otherwise.
+## Disassociation & Mental Health
 
-I've had plenty of opportunities to think about those who've helped—not just financially, but emotionally. My wife, family, friends who gave unconditional support, school teachers who inspired learning, peers who challenged, sports coaches who challenged for greatness. The journey of being a founder started when I was born and I wouldn't be here without any of them.
+Over time, I started to mute most of the accounts I followed. I've thought for a long time that it was pointless to be on Twitter if I muted over 70% of the accounts on there. I started blocking and muting accounts I didn't follow.
 
-These are the people I think about when I make the decision to continue.
+I felt I had a feed of thoughtful people, who generally aligned with my world view. At some point it still became too much. Living in America before this current administration was anxiety-inducing enough. Now, it's unbearable.
 
-### Business is politics
+And I say this from a position of privilege that is not enjoyed by the people directly being disenfranchised and targeted by the US body politic. They have the privilege of being in a position to vote, if that is the one thing that constitutes being privileged by being an American.
 
-Earlier this year I published a list of book recommendations for founders, and I still stand by those recommendations. These were works of fiction, books on race and politics. Particularly as technology founders, we are dealing with humanity, not technology.
+As far back as 2011, the [University of Vermont](https://mic.com/articles/80313/scientists-can-tell-you-re-depressed-by-looking-at-your-twitter-feed#.kv6CqoQNQ) was conducting research that suggesting that Twitter had links to depression-enablement. As Twitter and social media has become more pervasive, the negative impact of societal health has only grown more recorded (see [here](https://www.theguardian.com/society/2017/may/19/popular-social-media-sites-harm-young-peoples-mental-health) and [here](https://www.theatlantic.com/technology/archive/2017/07/how-twitter-fuels-anxiety/534021/).
 
-I'm struggling to revere founders like Elon Musk, Jeff Bezos, Mark Zuckerberg because to do so ignores the anti-human and anti-labor practices of their businesses. If anything, it's a reminder of the dangers in deifying people. People are fallible. Expect it. Great ideas should not be abandoned because of fallible people. Find other people to carry on the work. Poor judgement and decision-making should be called out. Real-world consequences (firings, loss of revenue) should exist.
+## Enabling
 
-It's impossible not to see the link between deification, "genius" founder worship and what Uber is now. So it is with successful businesses, it is also with toxic businesses. Travis Kalanick was not alone in building Uber.
+Twitter was enabling my most negative behavior, the speed of its information delivery resulting in a shorter attention span and an obsession to constantly look the feed, waiting for the next news of catastrophe.
 
-### Inspiration is everywhere
+Twitter is enabling far worse behavior:
 
-I've met so many wonderful people this year, other founders and people who have expressed interest in joining Paperchain. I can't wait to have the opportunity to invite people on board this adventure and see what they do with the company. It's becoming clearer what my role as founder and CEO of the company should be, and I know I want to be in a position to encourage people to being their ideas, their personality and their history to the company.
+[Twitter Apologizes for Mishandling Reported Threat From Mail-Bomb Suspect](http://time.com/5436809/twitter-apologizes-threat-mail-bomb-suspect/)
 
-I still get inspired by art. I've picked up my book-reading and movie watching. *Stamped from the Beginning: The Definite History of Racist Ideas in America* (Ibram X. Kendi) is essential reading. Some of the more exceptional films from this year were "GOOD TIME", "A QUIET PASSION, "GIRLS TRIP", and "A GHOST STORY". I saw very little new cinema this year.
+> Two weeks before Cesar Sayoc allegedly mailed pipe bombs to political figures across the country, political commentator Rochelle Ritchie says she complained to Twitter about threats he made against her, including menacing messages and disturbing images such as alligators and human body parts after one of her appearances on Fox News.
 
-I was very lucky to be able to return to Australia for the holiday season. <br>
-It's been grounding and re-energizing.<br>
-I am very lucky to once again call New York City home.<br>
-I'm eager to rejoin the city and start 2018 with focus and humility.<br>
+...
+
+> Late Friday, the company acknowledged it had made a mistake and said it would investigate what happened, tweeting: "The tweet clearly violated our rules and should have been removed. We are deeply sorry for the error."
+
+And that is a high-profile example.
+
+Most recently: [Twitter apologizes for 'Kill all Jews' trending topic](https://thehill.com/policy/technology/414571-twitter-apologizes-for-kill-all-jews-trending-topic)
+
+Calls to ban Nazi's and provide better monitoring of racist attacks have been willfuly ignored by Twitter. Jack Dorsey's leadership throughout has been one of criminal negligence.
+
+## Following
+
+I enjoyed reading the thoughts of the following accounts, and appreciate their contribution to my use of the platform.
+
+[Ida Bae Wells](https://twitter.com/nhannahjones)<br>
+[Matt Zoller Seitz](https://twitter.com/mattzollerseitz)<br>
+[Miriam Bale](https://twitter.com/mimbale)<br>
+[Richard Brody](https://twitter.com/tnyfrontrow)<br>
+[Patrick Monahan](https://twitter.com/pattymo)<br>
+[KT Nelson](https://twitter.com/KrangTNelson)<br>
+[Ibram X. Kendi](https://twitter.com/DrIbram)<br>
+[Sarah Jeong](https://twitter.com/sarahjeong)<br>
+[Jamelle Bouie](https://twitter.com/jbouie)<br>
+[Suchitra Vijayan](https://twitter.com/suchitrav)<br>
+[Eric Weisen](https://twitter.com/ewiesen)<br>
+[Bree Newsome](https://twitter.com/BreeNewsome)<br>
+[Jesse Hawken](https://twitter.com/jessehawken)<br>
+[Clint Smith](https://twitter.com/ClintSmithIII)<br>
+[Florida Man](https://twitter.com/_floridaman)
+
+## Post-Twitter
+
+I still need to occasionally engage Twitter for a business account. The app is no longer on my phone, which already reduces the need to check the feed. My personal account is now deleted. I am spending more of my thoughts and time elsewhere. I'm this time to reflect more and regularly write here.
+
+Every thing I contributed to Twitter does not matter, nor does my decision to leave. It's an insignificant and easy death.
