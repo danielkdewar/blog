@@ -44,7 +44,7 @@ I felt I had a feed of thoughtful people, who generally aligned with my world vi
 
 And I say this from a position of privilege that is not enjoyed by the people directly being disenfranchised and targeted by the US body politic. They have the privilege of being in a position to vote, if that is the one thing that constitutes being privileged by being an American.
 
-As far back as 2011, the [University of Vermont](https://mic.com/articles/80313/scientists-can-tell-you-re-depressed-by-looking-at-your-twitter-feed#.kv6CqoQNQ) was conducting research that suggesting that Twitter had links to depression-enablement. As Twitter and social media has become more pervasive, the negative impact of societal health has only grown more recorded (see [here](https://www.theguardian.com/society/2017/may/19/popular-social-media-sites-harm-young-peoples-mental-health) and [here](https://www.theatlantic.com/technology/archive/2017/07/how-twitter-fuels-anxiety/534021/).
+As far back as 2011, the [University of Vermont](https://mic.com/articles/80313/scientists-can-tell-you-re-depressed-by-looking-at-your-twitter-feed#.kv6CqoQNQ) was conducting research that suggesting that Twitter had links to depression-enablement. As Twitter and social media has become more pervasive, the negative impact of societal health has only grown more recorded (see [here](https://www.theguardian.com/society/2017/may/19/popular-social-media-sites-harm-young-peoples-mental-health) and [here](https://www.theatlantic.com/technology/archive/2017/07/how-twitter-fuels-anxiety/534021/)).
 
 ## Enabling
 
@@ -88,6 +88,6 @@ I enjoyed reading the thoughts of the following accounts, and appreciate their c
 
 ## Post-Twitter
 
-I still need to occasionally engage Twitter for a business account. The app is no longer on my phone, which already reduces the need to check the feed. My personal account is now deleted. I am spending more of my thoughts and time elsewhere. I'm this time to reflect more and regularly write here.
+I still need to occasionally engage Twitter for a business account. The app is no longer on my phone, which already reduces the need to check the feed. My personal account is now deleted. I am spending more of my thoughts and time elsewhere.
 
 Every thing I contributed to Twitter does not matter, nor does my decision to leave. It's an insignificant and easy death.

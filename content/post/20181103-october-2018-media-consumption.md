@@ -5,81 +5,30 @@ title = "October 2018 Media Consumption"
 
 +++
 
-I was first diagnosed with depression in 2015. At the time I was undergoing cognitive behavioral therapy to treat a chronic anxiety disorder (fear of catastrophe).
+Media consumed in October is finalized. You can [view here](https://www.daniel-dewar.com/seen-read-listened-2018/#october).
 
-My family has a long history of depression, some members were treated, others were not but the symptoms were recognizable. It's part of my genetic makeup that my body struggles to chemically balance itself.
+Quick notes:
 
-It requires medication to achieve that balance as part of a wider treatment plan.
+**Unforgiven**
 
-## I was @audiodesigndan and then @danielkdewar
+A terribly sad repositioning of the American West mythology and a clear-headed meditation on the unspeakable violence, racist and misogynist culture that sat at the heart of the American frontier.
 
-I joined Twitter on June 09, 2012. It was a powerful tool for getting access to the people I admired most as well as people I considered peers.
+Eastwood has become a politically polarizing figure and his films are co-opted or rejected through politically narrow readings.
 
-My profile photo was a black & white screen grab of Walter Hotenhoffer, a character in The Simpson's episode, "The Scorpion's Tale", voiced by Werner Herzog.
+While playing hyper-masculine, hyper-violent characters, Eastwood has also chipped away—in front of the camera and behind—at the empty symbols and rhetoric those characters represent.
 
-![walter hotenhoffer - daniel dewar profile pic](/img/daniel-dewar-twitter-profile.jpg)
+"Escape From Alcatraz" (1979) was a critique of America's prison system, "Heartbreak Ridge" (1986) and "In The Line of Fire" (1993) challenged America's military-industrial complex, and his recent trio of films—"American Sniper" (2014), "Sully" (2016), "The 15:17 to Paris" (2017)—examine American heroism and its relationship—or lack of—to patriotic values.
 
-The episode features the following exchange:
+"American Sniper" was poorly read by most of the country. Conservatives and progressives saw it as a reinforcement of conservative values and failed to recognize the challenge to those values that it really was.
 
-**Assistant: Mr. Hotenhoffer, there's a mob outside.<br>
-Hotenhoffer: (pulls out gun from desk and places against his temple) An angry mob?<br>
-Assistant: No, a cheerful mob.<br>
-Hotenhoffer: (sighs and removes gun from temple) I'd like to have just one day when I don't put a gun to my head.**
+The end of the film is pure Kyle fantasy. It is no accident that his body being paraded through the streets mirrored an earlier scene of an Iraqi insurgent being carried through the streets. Both were given a hero's farewell and Eastwood is asking what, if any, is the difference between America's fanaticism and those of its enemies.
 
-[This post](https://writing.daniel-dewar.com/post/a-very-easy-death/) probably best explains the appeal to me. Before Hotenhoffer I used a black & white screen grab of Ray Patterson (voiced by Steve Martin), the incumbent Sanitation Commissioner Homer runs against.
+**Random Acts of Flyness**
 
-## Disassociation & Mental Health
+Terence Nance made one of the great films of the new century with "An Oversimplification Of Her Beauty". It's depressing that his output is constrained by an industry that continually fails to reward filmmakers like him.
 
-Over time, I started to mute most of the accounts I followed. I've thought for a long time that it was pointless to be on Twitter if I muted over 70% of the accounts on there. I started blocking and muting accounts I didn't follow.
+"Random Acts of Flyness" continues in a similar mode. Playing a fiction version of himself, Terence navigates the modern black experience, but expands upon his original cinematic work by inviting other writers and directors to create the work with him.
 
-I felt I had a feed of thoughtful people, who generally aligned with my world view. At some point it still became too much. Living in America before this current administration was anxiety-inducing enough. Now, it's unbearable.
+In Hannah Gadsby's astounding comedy special, "Nanette" (on Netflix), Gadsby talks about the shortcomings of Picasso (who she reminds that she "fucking hates"). Her point is an artistic one. Picasso showed us that we break open the world through the deconstruction of form and to see things from multiple viewpoints. Picasso's failure was that he thought he represented all view points.
 
-And I say this from a position of privilege that is not enjoyed by the people directly being disenfranchised and targeted by the US body politic. They have the privilege of being in a position to vote, if that is the one thing that constitutes being privileged by being an American.
-
-As far back as 2011, the [University of Vermont](https://mic.com/articles/80313/scientists-can-tell-you-re-depressed-by-looking-at-your-twitter-feed#.kv6CqoQNQ) was conducting research that suggesting that Twitter had links to depression-enablement. As Twitter and social media has become more pervasive, the negative impact of societal health has only grown more recorded (see [here](https://www.theguardian.com/society/2017/may/19/popular-social-media-sites-harm-young-peoples-mental-health) and [here](https://www.theatlantic.com/technology/archive/2017/07/how-twitter-fuels-anxiety/534021/).
-
-## Enabling
-
-Twitter was enabling my most negative behavior, the speed of its information delivery resulting in a shorter attention span and an obsession to constantly look the feed, waiting for the next news of catastrophe.
-
-Twitter is enabling far worse behavior:
-
-[Twitter Apologizes for Mishandling Reported Threat From Mail-Bomb Suspect](http://time.com/5436809/twitter-apologizes-threat-mail-bomb-suspect/)
-
-> Two weeks before Cesar Sayoc allegedly mailed pipe bombs to political figures across the country, political commentator Rochelle Ritchie says she complained to Twitter about threats he made against her, including menacing messages and disturbing images such as alligators and human body parts after one of her appearances on Fox News.
-
-...
-
-> Late Friday, the company acknowledged it had made a mistake and said it would investigate what happened, tweeting: "The tweet clearly violated our rules and should have been removed. We are deeply sorry for the error."
-
-And that is a high-profile example.
-
-Most recently: [Twitter apologizes for 'Kill all Jews' trending topic](https://thehill.com/policy/technology/414571-twitter-apologizes-for-kill-all-jews-trending-topic)
-
-Calls to ban Nazi's and provide better monitoring of racist attacks have been willfuly ignored by Twitter. Jack Dorsey's leadership throughout has been one of criminal negligence.
-
-## Following
-
-I enjoyed reading the thoughts of the following accounts, and appreciate their contribution to my use of the platform.
-
-[Ida Bae Wells](https://twitter.com/nhannahjones)<br>
-[Matt Zoller Seitz](https://twitter.com/mattzollerseitz)<br>
-[Miriam Bale](https://twitter.com/mimbale)<br>
-[Richard Brody](https://twitter.com/tnyfrontrow)<br>
-[Patrick Monahan](https://twitter.com/pattymo)<br>
-[KT Nelson](https://twitter.com/KrangTNelson)<br>
-[Ibram X. Kendi](https://twitter.com/DrIbram)<br>
-[Sarah Jeong](https://twitter.com/sarahjeong)<br>
-[Jamelle Bouie](https://twitter.com/jbouie)<br>
-[Suchitra Vijayan](https://twitter.com/suchitrav)<br>
-[Eric Weisen](https://twitter.com/ewiesen)<br>
-[Bree Newsome](https://twitter.com/BreeNewsome)<br>
-[Jesse Hawken](https://twitter.com/jessehawken)<br>
-[Clint Smith](https://twitter.com/ClintSmithIII)<br>
-[Florida Man](https://twitter.com/_floridaman)
-
-## Post-Twitter
-
-I still need to occasionally engage Twitter for a business account. The app is no longer on my phone, which already reduces the need to check the feed. My personal account is now deleted. I am spending more of my thoughts and time elsewhere. I'm this time to reflect more and regularly write here.
-
-Every thing I contributed to Twitter does not matter, nor does my decision to leave. It's an insignificant and easy death.
+Nance's inclusion of Mariama Diallo, Darius Clark Monroe, and Jamund Washington	as co-directors and co-writers is a correction to counter Picasso's failure. By including female and LGBTQIA+ voices, Nance is showing us the kaleidoscope of viewpoints that Picasso never did.
