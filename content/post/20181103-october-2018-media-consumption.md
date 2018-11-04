@@ -27,7 +27,7 @@ The end of the film is pure Kyle fantasy. It is no accident that his body being 
 
 Terence Nance made one of the great films of the new century with "An Oversimplification Of Her Beauty". It's depressing that his output is constrained by an industry that continually fails to reward filmmakers like him.
 
-"Random Acts of Flyness" continues in a similar mode. Playing a fiction version of himself, Terence navigates the modern black experience, but expands upon his original cinematic work by inviting other writers and directors to create the work with him.
+"Random Acts of Flyness" continues in a similar mode. Playing a fictionalized version of himself, Terence navigates the modern black experience, but expands upon his original cinematic work by inviting other writers and directors to create the work with him.
 
 In Hannah Gadsby's astounding comedy special, "Nanette" (on Netflix), Gadsby talks about the shortcomings of Picasso (who she reminds that she "fucking hates"). Her point is an artistic one. Picasso showed us that we break open the world through the deconstruction of form and to see things from multiple viewpoints. Picasso's failure was that he thought he represented all view points.
 
