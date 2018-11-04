@@ -29,6 +29,6 @@ Terence Nance made one of the great films of the new century with "An Oversimpli
 
 "Random Acts of Flyness" continues in a similar mode. Playing a fictionalized version of himself, Terence navigates the modern black experience, but expands upon his original cinematic work by inviting other writers and directors to create the work with him.
 
-In Hannah Gadsby's astounding comedy special, "Nanette" (on Netflix), Gadsby talks about the shortcomings of Picasso (who she reminds that she "fucking hates"). Her point is an artistic one. Picasso showed us that we break open the world through the deconstruction of form and to see things from multiple viewpoints. Picasso's failure was that he thought he represented all view points.
+In Hannah Gadsby's astounding comedy special, "Nanette" (on Netflix), Gadsby talks about the shortcomings of Picasso (who she reminds that she "fucking hates"). Her point is an artistic one. Picasso showed us that we could break open the world through the deconstruction of form and to see things from multiple perspectives. Picasso's failure was that he thought he could represent all viewpoints.
 
-Nance's inclusion of Mariama Diallo, Darius Clark Monroe, and Jamund Washington	as co-directors and co-writers is a correction to counter Picasso's failure. By including female and LGBTQIA+ voices, Nance is showing us the kaleidoscope of viewpoints that Picasso never did.
+Nance's inclusion of Mariama Diallo, Darius Clark Monroe, and Jamund Washington	as co-directors and co-writers is a correction to counter Picasso's failure. By including female and LGBTQIA+ voices, Nance is showing us the kaleidoscope of perspectives that Picasso never did.
