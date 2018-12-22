@@ -27,26 +27,26 @@ Here, Reznor and I are in agreement—in its current standings, the Presidential
 
 **SETLIST**
 
-Mr. Self Destruct
-Wish
-Less Than
-March of the Pigs
-The Lovers
-This Isn't the Place
-Reptile
-The Perfect Drug
-Shit Mirror
-Ahead of Ourselves
-God Break Down the Door
-Copy of A
-Gave Up
-I'm Afraid of Americans (David Bowie cover)
-Digital (Joy Division cover)
-The Hand That Feeds
-Head Like a Hole
+Mr. Self Destruct<br>
+Wish<br>
+Less Than<br>
+March of the Pigs<br>
+The Lovers<br>
+This Isn't the Place<br>
+Reptile<br>
+The Perfect Drug<br>
+Shit Mirror<br>
+Ahead of Ourselves<br>
+God Break Down the Door<br>
+Copy of A<br>
+Gave Up<br>
+I'm Afraid of Americans (David Bowie cover)<br>
+Digital (Joy Division cover)<br>
+The Hand That Feeds<br>
+Head Like a Hole<br>
 
 
 Encore:
-All the Love in the World
-Over and Out
+All the Love in the World<br>
+Over and Out<br>
 Hurt
