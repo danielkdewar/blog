@@ -24,3 +24,29 @@ Reznor has been more outspoken in interviews this year regarding the current Pre
 No, you don't. The office of the President is only as respect-worthy as we allow it to be.
 
 Here, Reznor and I are in agreement—in its current standings, the Presidential office deserves no respect.
+
+**SETLIST**
+
+Mr. Self Destruct
+Wish
+Less Than
+March of the Pigs
+The Lovers
+This Isn't the Place
+Reptile
+The Perfect Drug
+Shit Mirror
+Ahead of Ourselves
+God Break Down the Door
+Copy of A
+Gave Up
+I'm Afraid of Americans (David Bowie cover)
+Digital (Joy Division cover)
+The Hand That Feeds
+Head Like a Hole
+
+
+Encore:
+All the Love in the World
+Over and Out
+Hurt
