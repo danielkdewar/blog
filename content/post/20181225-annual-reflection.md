@@ -1,5 +1,5 @@
 +++
-date = "2018-12-27T09:48:52+10:00"
+date = "2018-12-26T09:48:52+10:00"
 draft = false
 title = "Annual Reflection: 2018"
 description = "A year of hard lessons, the bottom, and bittersweet progress."
