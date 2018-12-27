@@ -96,7 +96,7 @@ I hadn't played the sport in nearly 10 years. My body was in shock initially.
 
 I joined to get fit and to make friends. In many ways, startups and team sports involve trial by fires and those that are left at the end invariably develop deep, life-long relationships. This was no different.
 
-Sports is not without politics althought it is ridiculous that healthcare in the US is considered a political issue. Every match I played required a trip to CityMD. $125 minimum. The stitches cost $400. In Australia, that would be $0. So much of quality of life and general happiness is derived from access to healthcare and it is non-existent in the US (unless you can afford for it, but in matters of healthcare, it is not something that should be offered to only those with money).
+Sports is not without politics although it is ridiculous that healthcare in the US is considered a political issue. Every match I played required a trip to CityMD. $125 minimum. The stitches cost $400. In Australia, that would be $0. So much of quality of life and general happiness is derived from access to healthcare and it is non-existent in the US (unless you can afford for it, but in matters of healthcare, it is not something that should be offered to only those with money).
 
 Anything less than the establishment of national, universal healthcare in the US will be a failure of political ideas and ambition. That might be my main axe to grind if I ever reach a position of public importance or influence.
 
