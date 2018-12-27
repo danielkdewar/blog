@@ -122,7 +122,7 @@ My mother is buried by depression and an eating disorder. She's unable to help h
 
 My mother and father will most likely die in the next 10 years (they are late 60s now). I won't be there for most of the rest of their lives.
 
-A part of the desire for Paperchain's sucess is entirely selfish and personal. To make it up to those who sacrificed the most for you to get here. To generate a financial windfall as immediately as possible and make life comfortable for those whose lives I've missed. For nieces and nephews that don't recognize or know who I am.
+A part of the desire for Paperchain's success is entirely selfish and personal. To make it up to those who sacrificed the most for you to get here. To generate a financial windfall as immediately as possible and make life comfortable for those whose lives I've missed. For nieces and nephews that don't recognize or know who I am.
 
 It doesn't have to be this way and I respect those whose experience is different—founding this startup has been immeasurably painful. I envy those who have been able to minimize their loss.
 
@@ -210,7 +210,7 @@ A great film about America's clash of political ideas and the desire for law to 
 
 "**First Reformed**"
 
-A conscience-altering experience. Ethan Hawke's priest character slides into depression and radicalism as he realizes human-induced climate change is now irreversible—and with it, so to does the exctinction of human life on Earth.
+A conscience-altering experience. Ethan Hawke's priest character slides into depression and radicalism as he realizes human-induced climate change is now irreversible—and with it, so too does the extinction of human life on Earth.
 
 More: "Atlanta" S02, "Blade Runner 2049" (fascinating ideas ruined by shallow, uninteresting images), "Golden Exits", "In Praise of Love", "Annihilation", "Isle of Dogs", "My Dinner with Andre"
 
