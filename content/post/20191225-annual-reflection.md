@@ -1,5 +1,5 @@
 +++
-date = "2019-12-12T09:48:52+10:00"
+date = "2019-12-30T09:48:52+10:00"
 draft = false
 title = "Annual Reflection: 2019"
 description = "Year complete — what happened?"
