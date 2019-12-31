@@ -165,7 +165,7 @@ The Safdie brothers are so effective at imbuing the audience with the subjectivi
 
 "**The Irishman**"
 
-I appreciated that this arrived first on Netflix (I don't have Netflix so The Pirate Bay was my friend). Because some scenes were so well-executed that I had to rewind to watch them again. And Scorcese spends the last hour reconciling a lifetime of violence, power and Catholic spirituality.
+I appreciated that this arrived first on Netflix (I don't have Netflix so The Pirate Bay was my friend). Because some scenes were so well-executed that I had to rewind to watch them again. And Scorsese spends the last hour reconciling a lifetime of violence, power and Catholic spirituality.
 
 More (new and revisited): "Ad Astra" (Gray's ideas are rendered incredibly on screen), "Queen & Slim", "Her Smell", "Nobody's Fool", "Peterloo", "The Dead Don't Die", "Lost In Translation", "The Tree of Life", "Marriage Story" (when Adam Driver cried at the end, I cried, because I knew exactly what he was crying over), "Us", "The Burial of Kojo", "Atlantics", "Waves"
 
