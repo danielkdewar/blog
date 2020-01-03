@@ -196,5 +196,6 @@ Jelani Sei, Sampa the Great\
 Kamasi Washington\
 Mojo Juju, P-UniQue\
 Mahalia, Sebastian Mikael\
+Tool\
 DaBaby\
 Asiahn, PJ Morton
