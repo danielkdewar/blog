@@ -65,17 +65,15 @@ We documented everything and in the fog of 2020 haven't edited the footage yet. 
 
 ## Paperchain
 
-We have been able to pay $414k to creators for the streaming media months before they usually get paid.
+We have been able to pay $414k to creators for the streaming media months before they usually get paid. There are now more full-time team members than there are founders (a huge milestone as a company!). We generated $2.5k in revenue. We raised over $500k and are on our way to closing our full seed round.
 
 We're not talking theoretical. We're doing it. Paperchain is actively closing the time-gap in media payments.
 
-I had to make many critical decisions this year.
+I had to make many critical decisions this year:
 
 * Made the decision to ask two founders to step back as work commitments couldn't be met. Potentially could have sunk the company. I think we made the right hiring decisions to fill the gaps and we're in our strongest position now.
 * There have been moments of reduced or no pay. All of us on this team made the same commitment to continue and push through.
 * With COVID-19 spreading, made the decision to offer health insurance to our full-time team members. Very rare for a pre-seed company to do this. Increased our burn but kept our employee retention at 100%.
-
-There are now more full-time team members than there are founders (a huge milestone as a company!). We generated $2.5k in revenue. We raised over $500k and are on our way to closing our full seed round.
 
 **What I'm getting better at?**  Leadership. Hard to define but I feel more confident in this general area.
 
